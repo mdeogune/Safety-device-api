@@ -7,3 +7,5 @@ from . import views
 urlpatterns = [
       url(r'^', IndexView),
     ]
+
+   
